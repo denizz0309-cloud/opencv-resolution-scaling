@@ -36,8 +36,8 @@ Görüntünün farklı ölçeklerde yeniden boyutlandırılması:
 
 | 2x Ölçeklendirme | 4x Ölçeklendirme |
 |:---:|:---:|
-| ![2x Ölçeklendirme](ölçek_2x.jpg) | ![4x Ölçeklendirme](ölçek_4x.jpg) |
+| ![2x Ölçeklendirme](scale_2x.jpg) | ![4x Ölçeklendirme](scale_4x.jpg) |
 
 | 0.5x Ölçeklendirme | 0.25x Ölçeklendirme |
 |:---:|:---:|
-| ![0.5x Ölçeklendirme](ölçek_0.5x.jpg) | ![0.25x Ölçeklendirme](ölçek_0.25x.jpg) |
+| ![0.5x Ölçeklendirme](scale_0.5x.jpg) | ![0.25x Ölçeklendirme](scale_0.25x.jpg) |

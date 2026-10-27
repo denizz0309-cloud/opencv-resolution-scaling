@@ -29,3 +29,15 @@ python ana.py
 
 ## Proje Durumu
 Temel görüntü okuma, yeniden boyutlandırma ve görüntüleme işlemleri uygulanmıştır. CUDA hızlandırmasının çalışma ortamında ayrıca doğrulanması gerekmektedir.
+
+## Sonuçlar
+
+Görüntünün farklı ölçeklerde yeniden boyutlandırılması:
+
+| 2x Ölçeklendirme | 4x Ölçeklendirme |
+|:---:|:---:|
+| ![2x Ölçeklendirme](ölçek_2x.jpg) | ![4x Ölçeklendirme](ölçek_4x.jpg) |
+
+| 0.5x Ölçeklendirme | 0.25x Ölçeklendirme |
+|:---:|:---:|
+| ![0.5x Ölçeklendirme](ölçek_0.5x.jpg) | ![0.25x Ölçeklendirme](ölçek_0.25x.jpg) |
